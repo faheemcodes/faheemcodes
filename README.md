@@ -11,7 +11,7 @@ Currently, I operate a software house where I manage a development team of four,
 ### 🛠️ Tech Stack & Tools
  * **Languages:** JavaScript, PHP
  * **Frontend:** React, jQuery, Bootstrap, HTML5, CSS3
- * **Backend & Database:** MySQL, Antigravity
+ * **Backend & Database:** PHP, Laravel, MySQL
  * **Core Skills:** Full-Stack Development, AI Automation, Team Leadership, Clean UI/UX Design
 ### 📫 Let's Connect
  * LinkedIn
