@@ -3,7 +3,7 @@ I'm a Front-End & Full Stack Developer and a Software Engineering student at the
 Currently, I operate a software house where I manage a development team of four, working to turn complex problems into sleek, efficient solutions.
 ### 🚀 Featured Projects
  * **Hostel Management System:** A streamlined, full-stack solution designed to manage daily hostel operations, including room allocation, student records, and administrative tasks efficiently.
- * **FYP Management System:** An academic workflow automation tool built using React and Antigravity to simplify and manage Final Year Project submissions and tracking.
+ * **FYP Management System:** An academic workflow automation tool built using React and Laravel to simplify and manage Final Year Project submissions and tracking.
  * **SalonHub:** A real-time, full-stack salon management marketplace built with PHP, MySQL, and JavaScript that connects clients with service providers.
 ### 💻 What I'm up to
  * 📚 Applying my recent certifications in **Google AI Prompting Essentials** and **AI for Brainstorming** to streamline my team's development workflows.
